@@ -1,0 +1,11 @@
+{
+  "name": "test-service-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Prashanth S Patil",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
